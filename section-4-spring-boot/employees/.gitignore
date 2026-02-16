@@ -1,10 +1,31 @@
+#######################################
+# Spring Boot / Maven
+#######################################
+
 HELP.md
 target/
-.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### STS ###
+#######################################
+# H2 Database (VERY IMPORTANT)
+#######################################
+
+/data/
+*.mv.db
+*.trace.db
+
+#######################################
+# Logs
+#######################################
+
+*.log
+
+#######################################
+# STS
+#######################################
+
 .apt_generated
 .classpath
 .factorypath
@@ -13,13 +34,20 @@ target/
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
-.idea
+#######################################
+# IntelliJ IDEA
+#######################################
+
+.idea/
 *.iws
 *.iml
 *.ipr
+out/
 
-### NetBeans ###
+#######################################
+# NetBeans
+#######################################
+
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -29,5 +57,15 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+#######################################
+# VS Code
+#######################################
+
 .vscode/
+
+#######################################
+# OS Files
+#######################################
+
+.DS_Store
+Thumbs.db
