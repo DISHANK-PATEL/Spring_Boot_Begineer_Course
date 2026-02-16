@@ -1,5 +1,6 @@
 package com.dishank.springboot.employees.service;
 import com.dishank.springboot.employees.entity.Employee;
+import com.dishank.springboot.employees.request.EmployeeRequest;
 
 import java.util.List;
 public interface EmployeeService {
