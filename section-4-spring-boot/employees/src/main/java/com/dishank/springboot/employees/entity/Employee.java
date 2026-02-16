@@ -1,4 +1,5 @@
-package com.luv2code.springboot.employees.entity;
+package com.dishank.springboot.employees.entity;
+
 
 import jakarta.persistence.*;
 
