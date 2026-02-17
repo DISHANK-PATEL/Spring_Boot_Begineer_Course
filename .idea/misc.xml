@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/02-books-continued/pom.xml" />
         <option value="$PROJECT_DIR$/section-4-spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/section-4-spring-boot/employees/pom.xml" />
       </list>
     </option>
   </component>
