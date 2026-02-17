@@ -8,11 +8,11 @@
 		<version>4.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.luv2code.springboot</groupId>
+	<groupId>com.dishank.springboot</groupId>
 	<artifactId>todos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todos</name>
-	<description>Luv2code Project 4</description>
+	<description>dishank Project 4</description>
 	<url/>
 	<licenses>
 		<license/>
