@@ -1,4 +1,4 @@
-package com.example.todo.service;
+package service;
 
 import org.springframework.security.core.userdetails.UserDetails;
 

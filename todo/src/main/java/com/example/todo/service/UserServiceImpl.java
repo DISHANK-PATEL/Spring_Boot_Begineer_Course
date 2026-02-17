@@ -1,4 +1,4 @@
-package com.example.todo.service;
+package service;
 
 import com.example.todo.entity.Authority;
 import com.example.todo.entity.User;
@@ -6,7 +6,6 @@ import com.example.todo.repository.UserRepository;
 import com.example.todo.request.PasswordUpdateRequest;
 import com.example.todo.response.UserResponse;
 import com.example.todo.util.FindAuthenticatedUser;
-
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.core.Authentication;
@@ -15,7 +14,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.server.ResponseStatusException;
-import service.UserService;
 
 @Service
 public class UserServiceImpl implements UserService {
@@ -101,3 +99,12 @@ public class UserServiceImpl implements UserService {
         return false;
     }
 }
+
+
+
+
+
+
+
+
+

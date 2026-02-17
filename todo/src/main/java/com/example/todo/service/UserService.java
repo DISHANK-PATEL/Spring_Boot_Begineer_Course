@@ -1,4 +1,4 @@
-package com.example.todo.service;
+package service;
 
 import com.example.todo.request.PasswordUpdateRequest;
 import com.example.todo.response.UserResponse;
