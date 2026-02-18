@@ -1,4 +1,4 @@
-package response;
+package com.example.todo.response;
 
 public class AuthenticationResponse {
     private String token;

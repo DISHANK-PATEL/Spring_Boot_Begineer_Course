@@ -1,4 +1,4 @@
-package entity;
+package com.example.todo.entity;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;

@@ -1,4 +1,4 @@
-package response;
+package com.example.todo.response;
 
 import com.example.todo.entity.Authority;
 

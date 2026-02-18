@@ -1,4 +1,4 @@
-package request;
+package com.example.todo.request;
 
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;

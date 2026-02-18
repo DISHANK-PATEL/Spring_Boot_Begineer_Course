@@ -1,4 +1,4 @@
-package repository;
+package com.example.todo.repository;
 
 import com.example.todo.entity.Todo;
 import com.example.todo.entity.User;

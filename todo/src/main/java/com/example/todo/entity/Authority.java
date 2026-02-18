@@ -1,4 +1,4 @@
-package entity;
+package com.example.todo.entity;
 
 import jakarta.persistence.Embeddable;
 import org.springframework.security.core.GrantedAuthority;

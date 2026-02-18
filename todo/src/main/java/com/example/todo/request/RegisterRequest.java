@@ -1,4 +1,4 @@
-package request;
+package com.example.todo.request;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotEmpty;

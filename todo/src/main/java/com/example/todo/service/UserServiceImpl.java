@@ -1,4 +1,4 @@
-package service;
+package com.example.todo.service;
 
 import com.example.todo.entity.Authority;
 import com.example.todo.entity.User;
